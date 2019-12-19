@@ -9,8 +9,8 @@
 name: OpenWrt-Newifi3
 
 on: 
-  release:
-    types: [published]
+ # release:
+  #  types: [published]
   push:
     branches: 
       - master
